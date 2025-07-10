@@ -36,7 +36,6 @@
 📫 **Let's Connect**
 
 [![LinkedIn](https://img.shields.io/badge/-Farha%20Malik-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/farha-malik-533645345/)
-[![GitHub](https://img.shields.io/badge/-CodeLily--01-333?style=flat&logo=github)](https://github.com/CodeLily-01)
 
 ---
 
