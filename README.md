@@ -8,7 +8,6 @@
 -  I'm a BCA student passionate about web development & UI/UX design  
 -  I enjoy creating clean, responsive, and user-friendly websites  
 -  I design using **Figma** and love blending creativity with code  
--  Currently learning **JavaScript**, **React**, and **modern CSS**  
 -  I'm open to internships and collaboration on frontend or design projects 
 
 ---
